@@ -1,3 +1,10 @@
+# M3 Music Mixer - Unoffficial update edition
+
+A fork with the simple goal of updating the music choice that will take more advantage of bass speakers, then making small readability changes to the UI for viewing on a HiDPI screen. Original application created by _Aakash Adesara_. Forked by _Akilesh Praveen_.
+
+
+
+--- ORIGINALLY CREATED BY AAKASH ADESARA ---
 M3
 
 Myo Music Mixer
